@@ -1,1 +1,35 @@
+## AUTOMATIC_TIMETABLE_GENERATOR_USING_GENETIC_ALGORITHM
 
+#### Harsh Bhanushali, Greshma Sapra, Surbhi Saroliya
+
+Even though most college administrative work has been computerized, timetable scheduling
+is still mostly done manually due to its inherent dificulties.The manual timetable scheduling
+demands considerable time and efforts.Lecture timetable scheduling is a Constraint satisfac-
+tion problem in which we find a solution that satisfies the given set of constraints.A college
+timetable is a temporal arrangement of a set of lectures and practical's in which all given
+constraints are satisfied. Creating such timetables manually is complex and time consuming
+process.Automating this process with computer assisted timetable generator,can save a lot
+of precious time of administrators who are involved in creating and managing course timeta-
+bles.Using this system Authority can concentrate on other things rather than wasting their
+time on preparing Timetable.
+
+To generate such system our college sponsored our project which is built to eciently gen-
+erate college time mechanically,reducing the need of manual interference by timetable coor-
+dinator.Our system is designed in such a way that there are no slot collisions that provides
+optimality to the timetable,extra options that's enclosed within the system is that there's
+no headache of giving abundant input, only basic input like subject, semester, faculty, load,
+classroom number,lab number, etc, are required in csv format.
+
+Inputs once received by system will be processed further and the given set of constraints
+provided in proposed system will be applied on it, further it will be validated and the sys-
+tem will check whether all the requirements are fulfilled or not.Once validated,system will
+generate a review of the timetable which if approved will be stored in the database and will
+be available with different views of the timetable like class timetable,lab timetable,faculty
+timetable and master timetable which can be exported as csv file anytime.
+
+Our system can be used by all the educational institutes as we have built it in a generic
+method,only concern is the input that the system takes.For this, we have provided option
+of downloading a sample input file which is editable and the same can be uploaded as input
+after making changes, to the system.Input file cannot be altered as there are set on param-
+eters on which the algorithm runs and these parameters if manipulated will cause system
+failure.System works on powerful and reliable algorithm Genetic Algorithm.
