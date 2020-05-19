@@ -4,7 +4,7 @@
 
 ## Group Members:
 
-**#### Harsh Bhanushali, Greshma Sapra, Surbhi Saroliya**
+**Harsh Bhanushali, Greshma Sapra, Surbhi Saroliya**
 
 ## Breif Description:
 
