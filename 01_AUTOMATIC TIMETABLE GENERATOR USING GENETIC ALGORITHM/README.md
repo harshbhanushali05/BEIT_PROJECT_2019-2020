@@ -1,6 +1,12 @@
-## AUTOMATIC_TIMETABLE_GENERATOR_USING_GENETIC_ALGORITHM
+## Topic:
 
-#### Harsh Bhanushali, Greshma Sapra, Surbhi Saroliya
+#### AUTOMATIC TIMETABLE GENERATOR USING GENETIC ALGORITHM
+
+## Group Members:
+
+** #### Harsh Bhanushali, Greshma Sapra, Surbhi Saroliya **
+
+## Breif Description:
 
 Even though most college administrative work has been computerized, timetable scheduling
 is still mostly done manually due to its inherent dificulties.The manual timetable scheduling
