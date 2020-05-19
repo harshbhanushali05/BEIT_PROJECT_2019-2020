@@ -13,7 +13,7 @@ of precious time of administrators who are involved in creating and managing cou
 bles.Using this system Authority can concentrate on other things rather than wasting their
 time on preparing Timetable.
 
-To generate such system our college sponsored our project which is built to eciently gen-
+To generate such system our college sponsored our project which is built to efficiently gen-
 erate college time mechanically,reducing the need of manual interference by timetable coor-
 dinator.Our system is designed in such a way that there are no slot collisions that provides
 optimality to the timetable,extra options that's enclosed within the system is that there's
